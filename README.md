@@ -21,3 +21,13 @@ The program calculates how much each person owes or should be reimbursed.
 
 ## 📌 How to Run the Project
 1. Install required libraries:
+2. Open the notebook file:
+`Google pay expenses.ipynb`
+3. Run all the cells in Jupyter Notebook.
+
+## 📌 Project Status
+Completed ✔️
+
+## 📌 Author
+**Guruvaishnavi09**
+
